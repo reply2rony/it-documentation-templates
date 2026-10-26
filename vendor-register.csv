@@ -1,0 +1,3 @@
+VendorName,ServiceProvided,ContactPerson,ContactEmail,ContractStart,ContractEnd,RenewalNoticeDays,Notes
+Sample Vendor A,Internet service,Sample Contact,sample@example.com,2026-01-01,2026-12-31,30,Sample entry only — replace with real data in a private copy
+Sample Vendor B,Printer maintenance,Sample Contact,sample@example.com,2026-03-01,2027-02-28,30,Sample entry only
